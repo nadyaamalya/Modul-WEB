@@ -1,11 +1,10 @@
-<ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion"
+<ul class="navbar-nav bg-danger sidebar sidebar-dark accordion"
 id="accordionSidebar">
 <!-- Sidebar - Brand -->
 <a class="sidebar-brand d-flex align-items-center justify-content-center" href="#">
 <div class="sidebar-brand-icon rotate-n-15">
-<i class="fas fa-shopping-basket"></i>
 </div>
-<div class="sidebar-brand-text mx-3">TOKLINE</div>
+<div class="sidebar-brand-text my-0">Perpustakaan</div>
 </a>
 <!-- Divider -->
 <hr class="sidebar-divider my-0">
@@ -16,34 +15,26 @@ id="accordionSidebar">
 <span>Dashboard</span></a>
 </li>
 <!-- Divider -->
-<hr class="sidebar-divider">
+<hr class="sidebar-divider my-0">
 <li class="nav-item active">
-<a class="nav-link" href="/pelanggan">
+<a class="nav-link" href="/siswa">
 <i class="fas fa-fw fa-users"></i>
-<span>Pelanggan</span></a>
+<span>Siswa</span></a>
+</li>
+<!-- Divider -->
+<hr class="sidebar-divider my-0">
+<!-- Nav Item - Dashboard -->
+
+<span></span></a>
+</li>
+<!-- Divider -->
+<hr class="sidebar-divider my-0">
+<!-- Nav Item - Dashboard -->
+
 </li>
 <!-- Divider -->
 <hr class="sidebar-divider my-0">
 <!-- Nav Item - Dashboard -->
 <li class="nav-item active">
-<a class="nav-link" href="/barang">
-<i class="fas fa-fw fa-gift"></i>
-<span>Barang</span></a>
-</li>
-<!-- Divider -->
-<hr class="sidebar-divider my-0">
-<!-- Nav Item - Dashboard -->
-<li class="nav-item active">
-<a class="nav-link" href="/kategori">
-<i class="fas fa-fw fa-th-list"></i>
-<span>Kategori</span></a>
-</li>
-<!-- Divider -->
-<hr class="sidebar-divider my-0">
-<!-- Nav Item - Dashboard -->
-<li class="nav-item active">
-<a class="nav-link" href="/transaksi">
-<i class="fas fa-fw fa-credit-card"></i>
-<span>Transaksi</span></a>
 </li>
 </ul>
