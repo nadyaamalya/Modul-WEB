@@ -14,8 +14,6 @@ class SiswaController extends Controller
         //mengambil data dari tabel profile
         $siswa = DB::table('siswa')->get();
 
-
-
         $title = 'peringatan !';
         $text = "Apakah anda sudah mengembalikan buku?";
         $icon = "Question";
